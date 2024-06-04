@@ -1,4 +1,4 @@
-- 🔭 Em busca da primeira oportunidade como Dev Frontend
+- 🔭 Em busca da primeira oportunidade como Dev WEB
 - 🌱 Se aprofundando em JavaScript
 
 <div>
